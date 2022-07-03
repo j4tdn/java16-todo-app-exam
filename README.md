@@ -1,2 +1,1 @@
-# java16-todo-app-exam
-JAVA16 - TODO APP - Exam
+VERSION: TODO-APP-3.0-SNAPSHOT
